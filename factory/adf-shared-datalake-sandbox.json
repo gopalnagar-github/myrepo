@@ -1,0 +1,9 @@
+{
+	"name": "adf-shared-datalake-sandbox",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2e2b229-8c3e-4e22-b817-2bd8eb0080b3",
+		"tenantId": "0af648de-310c-4068-8ae4-f9418bae24cc"
+	}
+}
